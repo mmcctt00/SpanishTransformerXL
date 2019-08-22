@@ -5,7 +5,7 @@ fastai v1.0.57
 spacy
 
 
-#Preparing wiki corpus
+# Preparing wiki corpus
 
 run prepare_wiki.sh:
 bash prepare_wiki.sh "es"
@@ -21,7 +21,7 @@ python create_toks_1Ids.py --dir-path eswiki --lang es_core_news_sm
 
 run notebook or TrainLm.py (I trained 5 epochs with different learning rates )
 
-#Pretrained Model and itos:
+# Pretrained Model and itos:
 
 itos:
 https://1drv.ms/u/s!AjpGgbeu726PhB-XVsfvRzJAUZH-?e=6RvMP2
