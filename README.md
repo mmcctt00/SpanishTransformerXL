@@ -21,6 +21,9 @@ python create_toks_1Ids.py --dir-path eswiki --lang es_core_news_sm
 
 run notebook or TrainLm.py (I trained 5 epochs with different learning rates )
 
+to train a classifier with the pretrained model weights:
+run notebook LM_fine_tune_Classifier_training.ipynb
+
 # Pretrained Model and itos:
 
 itos:
